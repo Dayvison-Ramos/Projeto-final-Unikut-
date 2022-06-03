@@ -31,7 +31,7 @@ public class view {
         ArrayList<Recado> recados = new ArrayList<>();
         usuariosSistema.add(admin);
         do {
-            System.out.println(ANSI_BLUE + ANSI_WHITE_BACKGROUND + "BEM VINDO, OQUE VOCÊ DESEJA FAZER?" + ANSI_RESET);
+            System.out.println(ANSI_BLUE + ANSI_WHITE_BACKGROUND + "BEM VINDO, O QUE VOCÊ DESEJA FAZER?" + ANSI_RESET);
             System.out.println(ANSI_BLUE + "1 - CRIAR CONTA; " + ANSI_RESET);
             System.out.println(ANSI_BLUE + "2 - ACESSAR CONTA;" + ANSI_RESET);
             System.out.println(ANSI_BLUE + "3 - CONTA ADIMINISTRADOR" + ANSI_RESET);
