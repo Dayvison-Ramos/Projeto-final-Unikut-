@@ -9,7 +9,7 @@
 
 
 
-2 - Abra a pasta view
+2 - Abra a pasta views
 
 
 
